@@ -7,14 +7,12 @@ html{
     font-size: 10px
 }
 body{
-    perspective: 700px ;
     direction: ltr ;
     background-image: url(../images/141.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    height: 100vh;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
 }
@@ -261,8 +259,7 @@ main{
     align-items: flex-end;
     width: 80%;
     margin:  auto;
-    /* border: 1px solid black; */
-    padding-top: 80px;
+    margin-top: 12vh;
 
 }
 main img{
